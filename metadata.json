@@ -1,0 +1,6 @@
+{
+  "name": "Null Node",
+  "description": "An interactive, high-performance nanotech vector game and Android-Rust engine simulator embodying wgpu rendering, Bevy ECS compute shaders, and rhythmic willpower mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
